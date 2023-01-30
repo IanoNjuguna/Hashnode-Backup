@@ -45,7 +45,9 @@ go: to add module requirements and sums:
         go mod tidy
 ```
 
-After initializing the module, run the `go mod tidy` command.
+After initializing the module, run the `go mod tidy` command.  
+  
+Alternatively, you can run the `go mod tidy` command as stipulated in the documentation.
 
 ### What Does The `go mod tidy` Command Do?
 
@@ -53,7 +55,6 @@ The `go mod tidy` command matches the `go.mod` file with the dependencies requir
 
 * It downloads all the dependencies that are required in your source files and updates the `go.mod` file with the dependencies.
     
-
 * It removes all dependencies from the `go.mod` file which are not required in the source files.
     
 
@@ -67,8 +68,7 @@ Once you run your code using the `go build` command, you'll get the expected out
 Don't communicate by sharing memory, share memory by communicating.
 ```
 
-##   
-Reference
+## Reference
 
 1. [https://stackoverflow.com/a/64442305/18533523](https://stackoverflow.com/a/64442305/18533523)
     
