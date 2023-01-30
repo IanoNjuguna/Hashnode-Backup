@@ -45,8 +45,8 @@ go: to add module requirements and sums:
         go mod tidy
 ```
 
-After initializing the module, run the `go mod tidy` command.  
-  
+After initializing the module, run the `go mod tidy` command.
+
 Alternatively, you can run the `go mod tidy` command as stipulated in the documentation.
 
 ### What Does The `go mod tidy` Command Do?
@@ -75,3 +75,5 @@ Don't communicate by sharing memory, share memory by communicating.
 2. [https://go.dev/doc/tutorial/getting-started](https://go.dev/doc/tutorial/getting-started)
     
 3. [https://go.dev/ref/mod#authenticating](https://go.dev/ref/mod#authenticating)
+    
+4. [https://golangbyexample.com/go-mod-tidy/](https://golangbyexample.com/go-mod-tidy/)
