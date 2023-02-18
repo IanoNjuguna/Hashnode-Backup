@@ -15,9 +15,7 @@ $ git --version
 
 Here's the output I got on my PC:
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1676740678855/410f201a-a808-4eb4-a8bd-4e7cb6fec1ba.png align="center")
-
-1. [Set your username](https://docs.github.com/en/get-started/getting-started-with-git/setting-your-username-in-git) for every repository on your computer, run:
+2. [Set your username](https://docs.github.com/en/get-started/getting-started-with-git/setting-your-username-in-git) for every repository on your computer, run:
     
 
 ```Bash
@@ -35,7 +33,7 @@ On my PC, the result was:
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1676741218772/c1cd0b2c-8406-46e0-bc43-2de10e548411.png align="center")
 
-1. [Set your commit email address](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences/setting-your-commit-email-address). This is the email address that'll be used to author commits in every repository on your computer your PC and on GitHub. This email address will be added to Git. Run the following command:
+3. [Set your commit email address](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences/setting-your-commit-email-address). This is the email address that'll be used to author commits in every repository on your computer your PC and on GitHub. This email address will be added to Git. Run the following command:
     
 
 ```Bash
