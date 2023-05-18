@@ -1,4 +1,12 @@
-# Input && Output, Part2.
+---
+title: "Input && Output, Part2."
+datePublished: Thu Nov 03 2022 19:45:42 GMT+0000 (Coordinated Universal Time)
+cuid: cla1h9q8k000208ju7dwjf9nl
+slug: input-output-part2
+cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/WE_Kv_ZB1l0/upload/v1667504634050/kmaREYXQ2.jpeg
+tags: c, functions, input-output, cprogramminglanguage, getchar
+
+---
 
 ### What does `getchar()` do?
 
