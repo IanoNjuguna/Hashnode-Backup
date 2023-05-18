@@ -1,4 +1,12 @@
-# Input && Output, Part 1.
+---
+title: "Input && Output, Part 1."
+datePublished: Thu Nov 03 2022 11:00:16 GMT+0000 (Coordinated Universal Time)
+cuid: cla0yi0at000c08jy7wv0f9co
+slug: input-output-part-1
+cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/jXd2FSvcRr8/upload/v1667471539960/XDQblEyda.jpeg
+tags: c-programming, c, io, input-output, c-programming-language
+
+---
 
 ## Introduction
 
