@@ -1,6 +1,6 @@
 ---
 title: "Set Up your GitHub Commit Signature"
-seoTitle: "Boost Your Security: Set Up GitHub Commit Signature"
+seoTitle: "Set Up GitHub Commit Signature"
 seoDescription: "Learn the benefits of setting up a GitHub commit signature. Enhance code integrity, build trust, and secure collaborations. Easy setup guide inside!"
 datePublished: Tue Feb 21 2023 21:28:12 GMT+0000 (Coordinated Universal Time)
 cuid: cleerd8o200010alb7e7yhfge
