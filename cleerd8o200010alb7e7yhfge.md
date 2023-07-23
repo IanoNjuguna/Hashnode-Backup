@@ -5,7 +5,7 @@ seoDescription: "Learn the benefits of setting up a GitHub commit signature. Enh
 datePublished: Tue Feb 21 2023 21:28:12 GMT+0000 (Coordinated Universal Time)
 cuid: cleerd8o200010alb7e7yhfge
 slug: set-up-your-github-commit-signature
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1677014730459/f2def28e-6136-4dde-ac77-e724c718571e.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1690142183136/9e391685-1c2b-4041-a688-d4ecb7c2e211.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1690141735713/e4929cc4-e140-446f-9157-134051ac7171.png
 tags: commit, github, version-control, beginners, commit-messages
 
