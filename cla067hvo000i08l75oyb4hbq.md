@@ -1,4 +1,12 @@
-# While Loops Part 1.
+---
+title: "While Loops Part 1."
+datePublished: Wed Nov 02 2022 21:48:16 GMT+0000 (Coordinated Universal Time)
+cuid: cla067hvo000i08l75oyb4hbq
+slug: while-loops-part-1
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1667425668071/kdPXx-5gQ.png
+tags: c-programming, c, c-programming-language, while-loop, single-while-loops
+
+---
 
 ### What does a while loop do?
 
