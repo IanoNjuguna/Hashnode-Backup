@@ -1,4 +1,14 @@
-# How to Install Google Chrome using the Linux Terminal
+---
+title: "How to Install Google Chrome using the Linux Terminal"
+seoTitle: "How to Install Google Chrome using the Linux Terminal"
+seoDescription: "Open the Terminal Window. You can do this by either using the GUI or pressing CTRL + ALT + T."
+datePublished: Thu Feb 09 2023 21:20:58 GMT+0000 (Coordinated Universal Time)
+cuid: cldxltpwp00090aky4ddu7tmy
+slug: how-to-install-google-chrome-using-the-linux-terminal
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1675974064498/dafeb5a6-649e-4c2b-97be-2da27c41727a.png
+tags: linux, chrome, linux-for-beginners, linux-terminal
+
+---
 
 1. Open the Terminal Window. You can do this by either using the GUI or pressing `CTRL` + `ALT` + `T`.
     
