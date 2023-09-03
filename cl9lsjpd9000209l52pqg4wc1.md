@@ -1,4 +1,13 @@
-# Two things I'd recommend for code newbies.
+---
+title: "Two things I'd recommend for code newbies."
+datePublished: Sun Oct 23 2022 20:17:05 GMT+0000 (Coordinated Universal Time)
+cuid: cl9lsjpd9000209l52pqg4wc1
+slug: two-things-id-recommend-for-code-newbies
+cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/oqStl2L5oxI/upload/v1666554635231/gNhoHLUn8.jpeg
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1666556153266/l_jOhk061.jpeg
+tags: beginner, beginners, codenewbies, beginners-learningtocode-100daysofcode, beginnersguide
+
+---
 
 
 # 1: Focus
