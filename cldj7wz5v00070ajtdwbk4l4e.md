@@ -1,4 +1,15 @@
-# BrokenImport: could not import rsc.io/quote error in GoLang
+---
+title: "BrokenImport: could not import rsc.io/quote error in GoLang"
+seoTitle: "BrokenImport: could not import rsc.io/quote"
+seoDescription: "(no required module provides package "rsc.io/quote")"
+datePublished: Mon Jan 30 2023 19:42:49 GMT+0000 (Coordinated Universal Time)
+cuid: cldj7wz5v00070ajtdwbk4l4e
+slug: could-not-import-rscioquote
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1675108619406/3bcca7ba-c396-4efe-a720-20d767d1faa5.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1675105006936/9cd173e7-3e40-4209-8520-0d4e686d1866.png
+tags: go, call-code-in-an-external-package-in-go
+
+---
 
 ## Synopsis Of The Error
 
