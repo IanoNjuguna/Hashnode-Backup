@@ -1,4 +1,12 @@
-# How to Set up Git in 3 Steps
+---
+title: "How to Set up Git in 3 Steps"
+datePublished: Sat Feb 18 2023 18:06:37 GMT+0000 (Coordinated Universal Time)
+cuid: clea9ufru000109mof80xffwl
+slug: how-to-set-up-git-in-3-steps
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1676743083519/70e4aeca-18eb-44ac-970d-df75aef0ae1f.png
+tags: github, programming, git, debian
+
+---
 
 * [Download Git](https://git-scm.com/download/linux#:~:text=Debian/Ubuntu,of%20Debian/Ubuntu) by running the following command on your terminal:
     
