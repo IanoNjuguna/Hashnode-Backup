@@ -1,4 +1,16 @@
-# Learn to Learn
+---
+title: "Learn to Learn"
+seoTitle: "Learn to Learn:
+How should I learn software engineering?"
+seoDescription: "How should I learn software engineering?
+Why should I learn software engineering?"
+datePublished: Fri Jan 27 2023 12:47:00 GMT+0000 (Coordinated Universal Time)
+cuid: cldeiqo5l00000al53h98gdur
+slug: learn-to-learn
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/83tkHLPgg2Q/upload/4f45c510c34fc48733f008f4a60fb2f8.jpeg
+tags: learning, learn, learn-coding, learning-journey
+
+---
 
 A career in software engineering can be overwhelming, especially if you're just starting out. This is further aggravated by the fact that there's a variety of fields you can major in and this is something I have addressed in a previous [article](https://hashnode.com/post/cl9lsjpd9000209l52pqg4wc1).
 
