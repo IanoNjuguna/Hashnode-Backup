@@ -1,28 +1,28 @@
 ---
-title: "Set Up Kali Linux on any Android Device"
-seoTitle: "Set up Termux || Kali Linux on Android"
+title: "Kali Linux on Android Devices"
+seoTitle: "Set up Termux | Kali Linux on Android"
 seoDescription: "Set up Termux by installing Kali Linux on an Android device"
-datePublished: Fri May 12 2023 19:24:39 GMT+0000 (Coordinated Universal Time)
+datePublished: Thu Apr 07 2022 21:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: clhky6i0k00040amfdlrd2etu
-slug: set-up-kali-linux-on-any-android-device
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1683909635749/eac57b8c-4b22-471a-a57f-08194a5a22e2.jpeg
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1683909251478/515c4c63-6dfb-4be4-83ad-9e07929e57ce.jpeg
+slug: kali-linux-on-android-devices
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1694185219325/1018ad10-795e-4b83-942c-15d6d48ed724.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1694185495538/15b219a9-9af2-4f1a-afe3-4068cc9c2844.png
 tags: linux, android, kali-linux, linux-for-beginners, nethunter
 
 ---
 
-This guide will help you set up the Kali Linux CLI on any Android device.
-
 ## Introduction
 
-With Kali Linux installed on your smartphone, its utility becomes supercharged.
+With Kali Linux installed on your smartphone, its utility becomes supercharged. This guide will help you set up the Kali Linux CLI on any Android device.
 
 ### pros
+
 * I use it for programming on good old Vim when not around my PC but even that's barely scratching the tip of the iceberg.
-
+    
 * With Kali, you have a dynamic tool for penetrating networks, testing vulnerabilities, and safeguarding against potential threats.
+    
 
-Whether you're an IT professional, curious about Kali OS, an ethical hacker, or simply concerned about personal data security, this integration empowers you with cutting-edge tools and knowledge to stay one step ahead in today's digital landscape.
+Whether you're an IT professional, curious about Kali OS, an ethical hacker, or simply concerned about personal data security, this integration empowers you with tools and knowledge to stay up to date in today's digital landscape.
 
 ## Download Termux
 
@@ -37,11 +37,13 @@ Downloading Termux via the Google Play Store is discouraged. This is because the
 ## **Set-up Termux**
 
 You'll update and upgrade your system using the following command:
+
 ```bash
 apt update && apt upgrade -y
 ```
 
 You also need to permit Termux to access your device's storage. To do this, run:
+
 ```bash
 termux-setup-storage
 ```
@@ -59,21 +61,25 @@ Since Kali NetHunter is an open-source project, you don't need to worry about co
 The system requirements will vary but, on the low end, you can set it up as a basic Secure Shell (SSH) server with no desktop, using as little as 128 MB of RAM (512 MB recommended) and 2 GB of disk space.
 
 To begin with, you'll have to install `wget`. It is a computer program that retrieves content from web servers. To install it, we'll use the Termux package manager (`pkg`):
+
 ```bash
 pkg install wget
 ```
 
 After `wget` is installed, you'll fetch the NetHunter installation file:
+
 ```bash
 wget -O install-nethunter-termux https://offs.ec/2MceZWr
 ```
 
 Once the file is downloaded, you'll change its mode to make it executable so that you can install NetHunter by running it:
+
 ```bash
 chmod +x install-nethunter-termux
 ```
 
 Run the executable:
+
 ```bash
 ./install-nethunter-termux
 ```
@@ -81,11 +87,13 @@ Run the executable:
 ## Using Kali Linux on Android
 
 To start the Kali NetHunter command line interface, run:
+
 ```bash
 nh
 ```
 
 It is recommended to update Kali first thing after installation by running:
+
 ```bash
 sudo apt update && sudo apt full-upgrade -y
 ```
@@ -93,11 +101,13 @@ sudo apt update && sudo apt full-upgrade -y
 The default root password is: `kali`.
 
 To exit the Kali CLI or Termux CLI, run:
+
 ```bash
 exit
 ```
 
 Perform regular backups of your rootfs by stopping all NetHunter sessions and typing the following in a Termux session:
+
 ```bash
 tar -cJf kali-arm64.tar.xz kali-arm64 && mv kali-arm64.tar.xz storage/downloads
 ```
