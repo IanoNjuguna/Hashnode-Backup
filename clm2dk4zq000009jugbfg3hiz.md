@@ -19,7 +19,7 @@ In the programming world, Ruby is a multi-paradigm programming language. It is i
 
 This tutorial will guide you on how to install the latest version of Ruby. If you are developing Ruby applications and working in multiple Ruby environments, this is the preferred way to go about it.
 
-## **Installing Ruby using** `RVM`
+## **What is** `RVM` ?
 
 [Ruby Version Manager(`RVM`)](https://rvm.io/rvm/install) is a command-line tool that allows you to easily install, manage, and work with multiple Ruby environments.
 
