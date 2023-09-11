@@ -2,7 +2,7 @@
 title: "Two Recommendations for Code Newbies"
 seoTitle: "Two Recommendations for Code Newbies"
 seoDescription: "Two Recommendations for Code Newbies: Focus && RTFM"
-datePublished: Thu Jul 21 2022 21:00:00 GMT+0000 (Coordinated Universal Time)
+datePublished: Tue Jun 21 2022 21:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cl9lsjpd9000209l52pqg4wc1
 slug: two-recommendations-for-code-newbies
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1694456738644/35c8507b-f2aa-4334-8597-4c559b98ab22.png
