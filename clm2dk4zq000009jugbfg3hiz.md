@@ -5,11 +5,13 @@ seoDescription: "Install Ruby in Ubuntu or Linux OS"
 datePublished: Sat Sep 02 2023 18:46:04 GMT+0000 (Coordinated Universal Time)
 cuid: clm2dk4zq000009jugbfg3hiz
 slug: how-to-install-ruby-in-ubuntu
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1693679595132/e74b6c5d-68a1-480d-a650-5841f0401f7c.png
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1693680305007/023993f7-718c-41ad-861f-bbedac75ff14.png
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/p8w7krXVY1k/upload/3d47de9c60c64c2fec2b1c935a75063a.jpeg
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1694458314903/b21697e0-5f4b-45ab-8be1-24fe401041de.png
 tags: ubuntu, ruby, ubuntu-2204
 
 ---
+
+## Introduction
 
 Naturally, Rubies are one of the [four precious gemstones](https://en.wikipedia.org/wiki/Gemstone#Characteristics_and_classification) and the name comes from the Latin word `rubens` meaning red. Rubies are beautiful, hard and durable - second only to moissanite and diamonds on the [Mohs Scale of Hardness](https://youtu.be/hiNpZqhcQEI?si=9iMU0C4w0SNgi4Yt).
 
