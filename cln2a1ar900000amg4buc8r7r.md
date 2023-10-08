@@ -70,6 +70,28 @@ else:
    execute_statement(s)
 ```
 
+* ## `match` Statements
+    
+    The `match` statement evaluates an expression, and matches the expression's value against a series of `case` clauses, and executes statements after the first `case` clause with a matching value (More Control Flow Tools, n.d.)  
+      
+    It is similar to a switch statement in C-style languages. Syntax:
+    
+
+```python
+def http_error(status):
+    match status:
+        case 400:
+            return "Bad request"
+        case 404:
+            return "Not found"
+        case 418:
+            return "I'm a teapot"
+        case _:
+            return "Something's wrong with the internet"
+```
+
+In the last case statement, the “variable name” `_` acts as a *wildcard* and never fails to match. If no case matches, none of the branches is executed.
+
 * ### Chained Conditionals
     
 
@@ -78,7 +100,7 @@ A chained conditional occurs when multiple conditional statements are placed in 
 * ### Nested Conditionals
     
 
-A nested conditional occurs when you place (nest) conditional statements inside other conditional statements to create more a hierarchy of conditions where each inner condition is evaluated only if the outer condition is true. For example:
+A nested conditional occurs when you place (nest) conditional statements inside other conditional statements to create more of a hierarchy of conditions where each inner condition is evaluated only if the outer condition is true. For example:
 
 ```python
 age = 25
@@ -100,3 +122,5 @@ else:
 2. Downey, A. B. (2015b). *Think Python : How to think like a computer scientist*. [https://openlibrary.org/books/OL26455778M/Think\_Python](https://openlibrary.org/books/OL26455778M/Think_Python)
     
 3. Sturtz, J. (2023b). Conditional statements in Python. [*realpython.com*](http://realpython.com). [https://realpython.com/python-conditional-statements/](https://realpython.com/python-conditional-statements/)
+    
+4. *More control flow tools*. (n.d.). Python Documentation. [https://docs.python.org/3/tutorial/controlflow.html#match-statements](https://docs.python.org/3/tutorial/controlflow.html#match-statements)
