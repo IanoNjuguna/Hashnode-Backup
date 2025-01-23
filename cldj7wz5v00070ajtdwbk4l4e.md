@@ -11,10 +11,9 @@ tags: go, call-code-in-an-external-package-in-go
 
 ---
 
-## Synopsis Of The Error
+## Synopsis
 
-I encountered this error while learning how to [call the code in an external package](https://go.dev/doc/tutorial/getting-started).  
-While following the tutorial, I ran the following code:
+I encountered this error while [calling the code in an Golang package](https://go.dev/doc/tutorial/getting-started) in the following code:
 
 ```go
 package main
@@ -29,7 +28,7 @@ func main() {
 }
 ```
 
-I got the following unexpected output after running the `go run .` command:
+After running the `go run .` command, I got the following output:
 
 ```bash
 package rsc.io/quote
@@ -46,9 +45,7 @@ package command-line-arguments
 
 ## How I Fixed The Error
 
-First and foremost, no error message is a personal attack on your abilities as a developer.
-
-Upon doing my research I learned that for the source code to compile, the `go.mod` file <mark>MUST</mark> exist. This means that you have to initialize your module using the `go mod init hello` command and the output for doing that is:
+For Golang source code to compile, the `go.mod` file <mark>MUST</mark> exist. This means that you have to initialize your module using the `go mod init hello` command and the output for doing that is:
 
 ```bash
 go: creating new go.mod: module hello
