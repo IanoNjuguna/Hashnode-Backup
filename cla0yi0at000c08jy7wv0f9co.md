@@ -11,8 +11,6 @@ tags: io
 
 ---
 
-## Introduction
-
 Input and Output (`I/O`) is one of the basic functions of a computing device.
 
 If we consider the result of all programming to be telling hardware what to do:
