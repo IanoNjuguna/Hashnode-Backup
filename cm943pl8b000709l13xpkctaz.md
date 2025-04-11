@@ -5,7 +5,7 @@ seoDescription: "Learn how to format drives to exFAT on Linux, supporting large 
 datePublished: Sat Apr 05 2025 10:59:08 GMT+0000 (Coordinated Universal Time)
 cuid: cm943pl8b000709l13xpkctaz
 slug: exfat-the-64-bit-upgrade-to-fat32
-cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/AVNYMxgz5tw/upload/a88eeb40819be8405e294ae8f239b334.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/1qL31aacAPA/upload/405833446db1c1be2be883220b7b3e92.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1743850687503/e1ddf6ed-467b-4e01-8f07-04a94579b86a.png
 tags: linux, file-system, fat32, exfat
 
