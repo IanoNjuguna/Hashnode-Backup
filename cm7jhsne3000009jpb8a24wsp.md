@@ -16,19 +16,13 @@ Let’s assume you need to create the duplicate of a directory. In this case, th
 $ mv /dir_1 /dir_2
 ```
 
-The `mv` command isn’t useful when you need to duplicate the directory and have two copies. Then, you need to use the `cp` command but when you use the vanilla `cp` command to copy a directory with content inside of it, you get the error message below:  
+The `mv` command isn’t useful when you need to duplicate the directory and have two copies. Then, you need to use the `cp` command but when you use the vanilla `cp` command to copy a directory with content inside of it, you get the error message below:
 
 ```bash
 cp: -r omitting directory
 ```
 
 The error message means that it’s possible to copy directories but by default, the `cp` command can’t copy sub-directories in a recursive manner. To solve this, you should append a recursive flag to the command, like this:
-
-```bash
-$ cp -r /dir_1 /dir_2
-```
-
-or:
 
 ```bash
 $ cp -r /dir_1 /dir_2
