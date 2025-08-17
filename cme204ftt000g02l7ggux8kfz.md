@@ -1,13 +1,12 @@
 ---
 title: "The ERC-20 Standard"
-seoTitle: "ERC-20 Token Standard Explained"
+seoTitle: "The ERC-20 Standard"
 seoDescription: "ERC-20 tokens on Ethereum represent assets and allow transfer, balance checks, and third-party approvals"
 datePublished: Thu Aug 07 2025 23:01:42 GMT+0000 (Coordinated Universal Time)
 cuid: cme204ftt000g02l7ggux8kfz
-slug: what-is-the-erc-20-standard-in-cryptocurrency
+slug: erc-20
 canonical: https://github.com/IanoNjuguna/erc-20/blob/main/README.md
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/wn57cSQ7VzI/upload/b1682c3b9a6f563727a5d0321f3db304.jpeg
-tags: avalanche
 
 ---
 
