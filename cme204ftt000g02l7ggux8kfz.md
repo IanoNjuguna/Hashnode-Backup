@@ -1,5 +1,5 @@
 ---
-title: "What is the ERC-20 Standard in Cryptocurrency?"
+title: "The ERC-20 Standard"
 seoTitle: "ERC-20 Token Standard Explained"
 seoDescription: "ERC-20 tokens on Ethereum represent assets and allow transfer, balance checks, and third-party approvals"
 datePublished: Thu Aug 07 2025 23:01:42 GMT+0000 (Coordinated Universal Time)
