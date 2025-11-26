@@ -11,8 +11,6 @@ tags: ubuntu, ruby, ubuntu-2204
 
 ---
 
-## Introduction
-
 Naturally, Rubies are one of the [four precious gemstones](https://en.wikipedia.org/wiki/Gemstone#Characteristics_and_classification) and the name comes from the Latin word `rubens` meaning red. Rubies are beautiful, hard and durable - second only to moissanite and diamonds on the [Mohs Scale of Hardness](https://youtu.be/hiNpZqhcQEI?si=9iMU0C4w0SNgi4Yt).
 
 In the programming world, Ruby is a multi-paradigm programming language. It is interpreted, high-level, and general-purpose. The development of the language was done by [Yukihiro Matsumoto](https://en.wikipedia.org/wiki/Yukihiro_Matsumoto) in Japan during the 1990s.
